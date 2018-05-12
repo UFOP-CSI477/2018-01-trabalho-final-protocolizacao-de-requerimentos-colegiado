@@ -31,6 +31,16 @@ O objetivo deste documento é apresentar a proposta da dupla para o trabalho a s
  
 ![login](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Login.png)
 
+* Are de Alunos
+![aluno1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno1.png)
+![aluno2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno2.png)
+![aluno3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno3.png)
+
+* Área de Técnicos Adm. / Colegiado
+![dept1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept1.png)
+![dept2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept2.png)
+![dept3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept3.png)
+
 
 ### 5. Referências
 
