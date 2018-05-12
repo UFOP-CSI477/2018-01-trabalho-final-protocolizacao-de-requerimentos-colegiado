@@ -29,18 +29,19 @@ O objetivo deste documento é apresentar a proposta da dupla para o trabalho a s
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
  
- * Área de Login
  ![login](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Login.png)
 
- * Áreas de Aluno
- (./images/Área Aluno 1.png)
- (./images/Área Aluno 2.png)
- (./images/Área Aluno 3.png)
+![aluno1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Aluno 1.png)
 
- * Área Técnicos Administrativos / Colegiado
- (./images/Área Departamento 1.png)
- (./images/Área Departamento 2.png)
- (./images/Área Departamento 3.png)
+![aluno2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Aluno 2.png)
+
+![aluno3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Aluno 3.png)
+
+![dept1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Departamento 1.png)
+
+![dept2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Departamento 3.png)
+
+![dept3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Área Departamento 3.png)
 
 ### 5. Referências
 
