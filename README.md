@@ -30,7 +30,7 @@ O objetivo deste documento é apresentar a proposta da dupla para o trabalho a s
 ### 4. Protótipo
  
  * Área de Login
- (./images/Login.png)
+ (https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Login.png)
 
  * Áreas de Aluno
  (./images/Área Aluno 1.png)
