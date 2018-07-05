@@ -28,17 +28,25 @@ O objetivo deste documento é apresentar a proposta da dupla para o trabalho a s
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
- 
+ *Área de Login
 ![login](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/login.png)
 
-![aluno1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno1.png)
-![aluno2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno2.png)
-![aluno3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno3.png)
+*Área de registro
+![registro](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/registro.png)
+
+*Área de usuário(aluno)
+![aluno1](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/homeusuariomenu.png)
+![aluno2](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/fazersolicitacao.png)
+![aluno3](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/aproveitamento.png)
+![aluno4](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/quebrarequisito.png)
+![aluno5](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/trancamentomatricula.png)
+![aluno6](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/solicitacoesusuario.jpeg)
+![aluno7](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/aproveitamento.png)
 
 * Área de Técnicos Adm. / Colegiado
-![dept1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept1.png)
-![dept2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept2.png)
-![dept3](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaDept3.png)
+![dept1](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/admininicial.jpeg)
+![dept2](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/areaanalise.jpeg)
+![dept3](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/usuarioscadastrados.jpeg)
 
 
 ### 5. Referências
