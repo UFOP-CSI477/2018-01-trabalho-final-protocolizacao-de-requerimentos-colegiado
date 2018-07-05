@@ -6,17 +6,17 @@
 <!-- Descrever um resumo sobre o trabalho. -->
 
 ### Resumo
-O objetivo deste documento é apresentar a proposta da dupla para o trabalho a ser desenvolvido na disciplina CSI477 -- Sistemas WEB I. O trabalho consistirá de um sistema de protocolização de requerimentos, onde o requisitante poderá fazer a protocolação de requerimentos, consultar os requisitos protocolados por ele mesmo. Haverá também um segundo tipo de usuário responsável pela análise e deferimento ou indeferimento dos mesmos.
+O objetivo deste documento é apresentar a proposta da dupla para o trabalho a ser desenvolvido na disciplina CSI477 -- Sistemas WEB I. O trabalho consiste de um sistema de protocolização de requerimentos, onde o requisitante poderá fazer a protocolação de requerimentos, consultar os requisitos protocolados por ele mesmo. Haverá também um segundo tipo de usuário correspondente ao nível administrativo responsável pela análise, deferimento ou indeferimento de todos os requerimentos protocolados.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de sistema de protocolização e análise de requerimentos.
+  O trabalho final tem como tema o desenvolvimento de sistema de protocolização e análise de requerimentos como por exemplo de aproveitamento de matéria ou trancamento de disciplina.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades: Protocolar requerimento, consultar requerimentos protocolados, deferir requerimento, indeferir requerimento.
+  A nível de usuário as funções implementadas constam de protocolar requerimentos e consultar requerimentos protocolados por si mesmo. Já a nível de administrador é possível realizar a análise de requerimentos deferindo ou indeferindo os requerimentos assim como ver a lista do usuário.
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
@@ -29,7 +29,7 @@ O objetivo deste documento é apresentar a proposta da dupla para o trabalho a s
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
  
-![login](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/Login.png)
+![login](https://github.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/blob/master/images/login.png)
 
 ![aluno1](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno1.png)
 ![aluno2](https://raw.githubusercontent.com/UFOP-CSI477/2018-01-trabalho-final-protocolizacao-de-requerimentos-colegiado/master/images/areaAluno2.png)
